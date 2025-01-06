@@ -20,7 +20,7 @@ TRELLO_API_KEY = os.getenv("TRELLO_API_KEY")
 TRELLO_TOKEN = os.getenv("TRELLO_TOKEN")
 TRELLO_LIST_ID = os.getenv("TRELLO_LIST_ID")
 BOARD_ID = os.getenv("BOARD_ID")
-INSTRUCTOR_EMAIL = "sukhmangill944@gmail.com"  # Update with instructor email
+INSTRUCTOR_EMAIL = "example@gmail.com"  # Update with instructor email
 
 # Load the spaCy NLP model
 nlp = spacy.load("en_core_web_sm")
