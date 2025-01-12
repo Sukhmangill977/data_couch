@@ -35,13 +35,13 @@ This project automates the process of handling training requests sent via email.
    TRELLO_LIST_ID=<your-trello-list-id>
    BOARD_ID=<your-trello-board-id>
 spaCy Model: Install the English NLP model for spaCy:
-bash
-Copy code
+
+
 python -m spacy download en_core_web_sm
 Installation
 Clone this repository:
-bash
-Copy code
+
+
 git clone https://github.com/your-repo/email-training-automation.git
 Navigate to the project directory:
 
