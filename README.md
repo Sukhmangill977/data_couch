@@ -38,6 +38,7 @@ spaCy Model: Install the English NLP model for spaCy:
 
 
 python -m spacy download en_core_web_sm
+<br>
 Installation
 Clone this repository:
 
